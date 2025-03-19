@@ -37,6 +37,6 @@ Aqui estão alguns dos projetos que desenvolvi e compartilhei:
 ## 📫 Contato
 💼 **LinkedIn:** [linkedin.com/in/seuusuario](https://www.linkedin.com/in/emerson-silva-ricardo-543308119/)  
 📡 **Perfil na DIO:** [dio.me/users/silvaemerson797](https://www.dio.me/users/silvaemerson797)  
-📧 **E-mail:** silvaemersonl@gmail.com  
+📧 **E-mail:** silvaemerson@gmail.com  
 
 📌 **Me siga para acompanhar mais projetos e novidades!** 🚀
