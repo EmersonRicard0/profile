@@ -35,8 +35,8 @@ Aqui estão alguns dos projetos que desenvolvi e compartilhei:
 - 📜 **Estudos na Cybrary sobre Segurança da Informação**
 
 ## 📫 Contato
-💼 **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+💼 **LinkedIn:** [linkedin.com/in/seuusuario](https://www.linkedin.com/in/emerson-silva-ricardo-543308119/)  
 📡 **Perfil na DIO:** [dio.me/users/silvaemerson797](https://www.dio.me/users/silvaemerson797)  
-📧 **E-mail:** seuemail@email.com  
+📧 **E-mail:** silvaemersonl@gmail.com  
 
 📌 **Me siga para acompanhar mais projetos e novidades!** 🚀
